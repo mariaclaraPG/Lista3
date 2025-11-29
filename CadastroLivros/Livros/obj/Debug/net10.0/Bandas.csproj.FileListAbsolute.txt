@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\bin\Debug\net10.0\Bandas.exe
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\bin\Debug\net10.0\Bandas.deps.json
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\bin\Debug\net10.0\Bandas.runtimeconfig.json
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\bin\Debug\net10.0\Bandas.dll
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\bin\Debug\net10.0\Bandas.pdb
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.AssemblyInfo.cs
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.dll
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\refint\Bandas.dll
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.pdb
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\Bandas.genruntimeconfig.cache
+C:\Users\Windows10\Documents\CadastroBanda\Bandas\obj\Debug\net10.0\ref\Bandas.dll
