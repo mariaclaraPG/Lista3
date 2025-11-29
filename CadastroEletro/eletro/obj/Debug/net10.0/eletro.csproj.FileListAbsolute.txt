@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.AssemblyInfo.cs
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\CadastroEletro\eletro\bin\Debug\net10.0\eletro.exe
+C:\Users\Windows10\Documents\CadastroEletro\eletro\bin\Debug\net10.0\eletro.deps.json
+C:\Users\Windows10\Documents\CadastroEletro\eletro\bin\Debug\net10.0\eletro.runtimeconfig.json
+C:\Users\Windows10\Documents\CadastroEletro\eletro\bin\Debug\net10.0\eletro.dll
+C:\Users\Windows10\Documents\CadastroEletro\eletro\bin\Debug\net10.0\eletro.pdb
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.dll
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\refint\eletro.dll
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.pdb
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\eletro.genruntimeconfig.cache
+C:\Users\Windows10\Documents\CadastroEletro\eletro\obj\Debug\net10.0\ref\eletro.dll
