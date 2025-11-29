@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.AssemblyInfo.cs
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\CadastroLivros\Livros\bin\Debug\net10.0\Livros.exe
+C:\Users\Windows10\Documents\CadastroLivros\Livros\bin\Debug\net10.0\Livros.deps.json
+C:\Users\Windows10\Documents\CadastroLivros\Livros\bin\Debug\net10.0\Livros.runtimeconfig.json
+C:\Users\Windows10\Documents\CadastroLivros\Livros\bin\Debug\net10.0\Livros.dll
+C:\Users\Windows10\Documents\CadastroLivros\Livros\bin\Debug\net10.0\Livros.pdb
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.dll
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\refint\Livros.dll
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.pdb
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\Livros.genruntimeconfig.cache
+C:\Users\Windows10\Documents\CadastroLivros\Livros\obj\Debug\net10.0\ref\Livros.dll
