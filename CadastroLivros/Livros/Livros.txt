@@ -1,0 +1,3 @@
+abc,katia,1936,5
+def,lanna,2006,2
+ghi,erin,2008,1
