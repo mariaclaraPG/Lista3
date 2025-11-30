@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.AssemblyInfo.cs
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\bin\Debug\net10.0\Fazenda.exe
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\bin\Debug\net10.0\Fazenda.deps.json
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\bin\Debug\net10.0\Fazenda.runtimeconfig.json
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\bin\Debug\net10.0\Fazenda.dll
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\bin\Debug\net10.0\Fazenda.pdb
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.dll
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\refint\Fazenda.dll
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.pdb
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\Fazenda.genruntimeconfig.cache
+C:\Users\Windows10\Documents\CadastroFazenda\Fazenda\obj\Debug\net10.0\ref\Fazenda.dll
