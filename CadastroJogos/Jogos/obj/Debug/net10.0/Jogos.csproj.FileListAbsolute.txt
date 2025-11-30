@@ -1,0 +1,14 @@
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.AssemblyInfoInputs.cache
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.AssemblyInfo.cs
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\bin\Debug\net10.0\Jogos.exe
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\bin\Debug\net10.0\Jogos.deps.json
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\bin\Debug\net10.0\Jogos.runtimeconfig.json
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\bin\Debug\net10.0\Jogos.dll
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\bin\Debug\net10.0\Jogos.pdb
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.dll
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\refint\Jogos.dll
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.pdb
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\Jogos.genruntimeconfig.cache
+C:\Users\Windows10\Documents\CadastroJogos\Jogos\obj\Debug\net10.0\ref\Jogos.dll
